@@ -7,11 +7,19 @@ And please buy the book, it's excellent!.
 ## topics covered 
 
 liner regression
+
 logistic regression
+
 k-means clustering
+
 categorical variabls
+
 neural networks
+
 cross validation
+
 principal component analysis
+
 support vector machines
+
 ... and a growing collection of cool graphs
