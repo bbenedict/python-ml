@@ -6,15 +6,15 @@ And please buy the book, it's excellent!.
 
 ## topics covered 
 
-liner regression
+linear regression
 
 logistic regression
 
 k-means clustering
 
-categorical variabls
-
 neural networks
+
+categorical variables
 
 cross validation
 
