@@ -22,4 +22,6 @@ principal component analysis
 
 support vector machines
 
+sentiment analysis
+
 ... and a growing collection of cool graphs
