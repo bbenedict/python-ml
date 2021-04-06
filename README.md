@@ -1,6 +1,6 @@
 # python-ml
 
-This repo is a series of jupyter notebooks created from various sources.  See the reference at the top of each notebook for more information.
+This repo is a series of jupyter notebooks covering machine learning with python created from various sources.  See the reference at the top of each notebook for more information on the source material for that notebook.
 
 ## topics covered 
 
